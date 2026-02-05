@@ -1,3 +1,4 @@
+//Day-36
 // functions in Javascript:
 
 // function sexkarna(){
